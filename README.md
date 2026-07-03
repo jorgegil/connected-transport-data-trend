@@ -1,2 +1,6 @@
 # connected-transport-data-trend
-Connected Transport Data (TREND) - project about identifying and linking transport related data sources for analytics in multiple domains
+Connected Transport Data (TREND) - project about identifying and linking transport related data sources for analytics in multiple domains.
+
+The transportation system faces numerous challenges, including increasing travel demand, rising congestion levels, improving safety, and constraining resources. Consequently, there is a pressing need for proactive traffic management strategies that can adaptively predict accident risk, support transport planning, monitor and predict energy requirements, and support automation. Through the integration of multiple data sources, we can gain insights and support both real-time operations as well as future modelling support for investment decisions.
+
+However, existing data infrastructure presents a significant hurdle. Our project addresses the limited linkage of data sources and the limited adoption of data exchange protocols between transprot related domains. The aim is to bridge this gap by proposing a data ecosystem to improve traffic safety, logistics, and e-mobility. Expected outcomes include a central platform for seamless integration of diverse data sources, including crash data, traffic and pedestrian flow, weather, transport infrastructure, and connected vehicles. And the demonstration of its use through a selection of relevant indicators that build on this connected data.
